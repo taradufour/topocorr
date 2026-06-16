@@ -9,4 +9,5 @@ Script coded as one step of a larger project on mapping of soil erosion risk wit
 
 ## References
 S. A. Soenen, D. R. Peddle and C. A. Coburn, "SCS+C: a modified Sun-canopy-sensor topographic correction in forested terrain," in IEEE Transactions on Geoscience and Remote Sensing, vol. 43, no. 9, pp. 2148-2159, Sept. 2005, doi: 10.1109/TGRS.2005.852480.
+
 Teillet, P. M., Guindon, B. and Goodenough, D. G. (1982) ‘On the Slope-Aspect Correction of Multispectral Scanner Data’, Canadian Journal of Remote Sensing, 8(2), pp. 84–106. doi: 10.1080/07038992.1982.10855028.
